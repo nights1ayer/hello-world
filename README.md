@@ -1,2 +1,2 @@
 # hello-world
-Basic guide to using GitHub
+Basic guide on editing and creating branches
